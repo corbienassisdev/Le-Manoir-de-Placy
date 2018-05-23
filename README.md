@@ -1,8 +1,9 @@
-banner
+![alt text](https://github.com/corbienassisdev/Le-Manoir-de-Placy/blob/master/images/banner.jpg)
 
 # Le Manoir de Placy : a showcase site
 
 The website is accesible at [lemanoirdeplacy.fr](https://lemanoirdeplacy.fr/).
+
 This is the public repository related to the private project (code in private for security).
 
 # Particular points
@@ -13,12 +14,13 @@ This is the public repository related to the private project (code in private fo
 
 # Examples
 
-alt The room page, as seen from a computer
+The room page, as seen from a computer
+------
+![alt text](https://github.com/corbienassisdev/Le-Manoir-de-Placy/blob/master/images/rooms.jpg)
 
-image
+The booking page, as seen from a mobile phone
+------
 
-alt The booking page, as seen from a mobile phone
-
-image
+![alt text](https://github.com/corbienassisdev/Le-Manoir-de-Placy/blob/master/images/plannings.jpg)
 
 
