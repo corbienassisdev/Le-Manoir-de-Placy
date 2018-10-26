@@ -4,7 +4,7 @@
 
 The website is accesible at [lemanoirdeplacy.fr](https://lemanoirdeplacy.fr/).
 
-This is the public repository related to the private project (code in private for security).
+This is the public repository related to the project.
 
 # Particular points
 
